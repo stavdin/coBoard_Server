@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56b004b4-eff2-417b-8e18-5b0e197dda2b" name="Default Changelist" comment="fixed tests">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/dbstore/RoomStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/dbstore/RoomStoreImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/dbstore/UserStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/server/CreateRoomServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/server/JoinRoomServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/server/createUserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/WhiteboardProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/AppGlobals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/AppGlobals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/dbstore/LoginStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/dbstore/LoginStoreImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/dbstore/PubSubStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/dbstore/PubSubStoreImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/server/CreateSessionServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/server/CreateSessionServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/server/SetupServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/server/SetupServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/server/UserLoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/server/UserLoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/server/WhiteboardServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/server/WhiteboardServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/company/server/TestServlets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/company/server/TestServlets.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tidWcOD6OY8UMhL3xdrNzeYROC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608640313956" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.company.server" />
+      <recent name="com.company.dbstore" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.company" />
+      <recent name="com.company.pubsub" />
+      <recent name="com.company.server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WhiteboardServer">
+    <configuration name="WhiteboardServer" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.server.WhiteboardServer" />
+      <module name="WhiteboardProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PubSubNodeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WhiteboardProject" />
+      <option name="PACKAGE_NAME" value="server" />
+      <option name="MAIN_CLASS_NAME" value="server.PubSubNodeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PubSubStructTest.testPubSubStructPutAndRemove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WhiteboardProject" />
+      <option name="PACKAGE_NAME" value="server" />
+      <option name="MAIN_CLASS_NAME" value="server.PubSubStructTest" />
+      <option name="METHOD_NAME" value="testPubSubStructPutAndRemove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServlets" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WhiteboardProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.server" />
+      <option name="MAIN_CLASS_NAME" value="com.company.server.TestServlets" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServlets.testServlets" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WhiteboardProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.server" />
+      <option name="MAIN_CLASS_NAME" value="com.company.server.TestServlets" />
+      <option name="METHOD_NAME" value="testServlets" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WhiteboardServer" />
+      <item itemvalue="JUnit.PubSubNodeTest" />
+      <item itemvalue="JUnit.PubSubStructTest.testPubSubStructPutAndRemove" />
+      <item itemvalue="JUnit.TestServlets" />
+      <item itemvalue="JUnit.TestServlets.testServlets" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestServlets" />
+        <item itemvalue="JUnit.TestServlets.testServlets" />
+        <item itemvalue="JUnit.PubSubStructTest.testPubSubStructPutAndRemove" />
+        <item itemvalue="JUnit.PubSubNodeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56b004b4-eff2-417b-8e18-5b0e197dda2b" name="Default Changelist" comment="" />
+      <created>1603958685450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603958685450</updated>
+    </task>
+    <task id="LOCAL-00001" summary="pubsub 2">
+      <created>1604845198332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604845198332</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pubsub 3">
+      <created>1605003605249</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605003605249</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pubsub 3">
+      <created>1605003635367</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605003635367</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pubsub 3">
+      <created>1605006066737</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605006066737</updated>
+    </task>
+    <task id="LOCAL-00005" summary="pubsub 3">
+      <created>1605006781919</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605006781919</updated>
+    </task>
+    <task id="LOCAL-00006" summary="pubsub 3">
+      <created>1605115600497</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605115600498</updated>
+    </task>
+    <task id="LOCAL-00007" summary="pubsub 3">
+      <created>1605116984015</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605116984015</updated>
+    </task>
+    <task id="LOCAL-00008" summary="pubsub 3">
+      <created>1605351437694</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605351437695</updated>
+    </task>
+    <task id="LOCAL-00009" summary="~">
+      <created>1605700007447</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605700007447</updated>
+    </task>
+    <task id="LOCAL-00010" summary="~">
+      <created>1605896926817</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605896926817</updated>
+    </task>
+    <task id="LOCAL-00011" summary="~">
+      <created>1605901205227</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605901205227</updated>
+    </task>
+    <task id="LOCAL-00012" summary="~">
+      <created>1606074288409</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606074288409</updated>
+    </task>
+    <task id="LOCAL-00013" summary="~">
+      <created>1606134904363</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1606134904363</updated>
+    </task>
+    <task id="LOCAL-00014" summary="~">
+      <created>1606143459088</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1606143459088</updated>
+    </task>
+    <task id="LOCAL-00015" summary="~">
+      <created>1606145041969</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606145041969</updated>
+    </task>
+    <task id="LOCAL-00016" summary="~">
+      <created>1606153115122</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606153115122</updated>
+    </task>
+    <task id="LOCAL-00017" summary="~">
+      <created>1606235569080</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1606235569080</updated>
+    </task>
+    <task id="LOCAL-00018" summary="~">
+      <created>1606248439390</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1606248439390</updated>
+    </task>
+    <task id="LOCAL-00019" summary="~">
+      <created>1606257454282</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1606257454282</updated>
+    </task>
+    <task id="LOCAL-00020" summary="~">
+      <created>1606257705505</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1606257705505</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fixed tests">
+      <created>1606388301862</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1606388301862</updated>
+    </task>
+    <task id="LOCAL-00022" summary="fixed tests">
+      <created>1606491709497</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1606491709498</updated>
+    </task>
+    <task id="LOCAL-00023" summary="fixed tests">
+      <created>1606570042540</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1606570042540</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="pubsub 2" />
+    <MESSAGE value="pubsub 3" />
+    <MESSAGE value="~" />
+    <MESSAGE value="fixed tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed tests" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="63" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623331098718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="63" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1623331098718" />
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1625758339559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1625758339559" />
+    <state x="504" y="62" width="764" height="593" key="#xdebugger.evaluate" timestamp="1626031911848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="504" y="62" width="764" height="593" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1626031911848" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1623491041850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1623491041850" />
+    <state width="1522" height="236" key="GridCell.Tab.0.bottom" timestamp="1626351283896">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1522" height="236" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1626351283896" />
+    <state width="1522" height="236" key="GridCell.Tab.0.center" timestamp="1626351283896">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1522" height="236" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1626351283896" />
+    <state width="1522" height="236" key="GridCell.Tab.0.left" timestamp="1626351283896">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1522" height="236" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1626351283896" />
+    <state width="1522" height="236" key="GridCell.Tab.0.right" timestamp="1626351283896">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1522" height="236" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1626351283896" />
+    <state width="768" height="255" key="GridCell.Tab.1.bottom" timestamp="1626032340205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="768" height="255" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1626032340205" />
+    <state width="768" height="255" key="GridCell.Tab.1.center" timestamp="1626032340205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="768" height="255" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1626032340205" />
+    <state width="768" height="255" key="GridCell.Tab.1.left" timestamp="1626032340205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="768" height="255" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1626032340205" />
+    <state width="768" height="255" key="GridCell.Tab.1.right" timestamp="1626032340205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="768" height="255" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1626032340205" />
+    <state x="287" y="133" width="938" height="617" key="Maven.ArtifactSearchDialog" timestamp="1623328643670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="287" y="133" width="938" height="617" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1623328643670" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1623328540764">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1623328540764" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1623943727041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1623943727041" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1623943420482">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1623943420482" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1626031738845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1626031738845" />
+    <state x="100" y="100" width="1336" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1626438413998">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1336" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1626438413998" />
+    <state x="324" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1625734281170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="324" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1625734281170" />
+    <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1625770439782">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1625770439782" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/company/server/ChatServlet.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/company/dbstore/MessageStoreImpl.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/company/server/TestServlets.java</url>
+          <line>173</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/company/server/TestServlets.java</url>
+          <line>177</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/company/dbstore/SessionStoreImpl.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/company/server/CreateSessionServlet.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ChatProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.servlet:javax.servlet-api:3.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

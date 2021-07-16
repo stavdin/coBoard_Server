@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+  .ChatBox{
+    text-align: right;
+  }
+  label{
+    position:relative;
+  }
+
+  .LoginComp{
+    position: absolute;
+    top: 97%;
+    right: 0.2%;
+  }
