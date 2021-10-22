@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/server/ChatProject.iml" filepath="$PROJECT_DIR$/server/ChatProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Whiteboard.iml" filepath="$PROJECT_DIR$/.idea/Whiteboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/WhiteboardProject.iml" filepath="$PROJECT_DIR$/server/WhiteboardProject.iml" />
     </modules>
   </component>
 </project>
